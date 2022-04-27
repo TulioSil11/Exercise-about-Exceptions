@@ -1,0 +1,16 @@
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\Proposed Exercise Exceptions\Proposed Exercise Exceptions\bin\Debug\net5.0\Proposed Exercise Exceptions.exe
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\Proposed Exercise Exceptions\Proposed Exercise Exceptions\bin\Debug\net5.0\Proposed Exercise Exceptions.deps.json
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\Proposed Exercise Exceptions\Proposed Exercise Exceptions\bin\Debug\net5.0\Proposed Exercise Exceptions.runtimeconfig.json
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\Proposed Exercise Exceptions\Proposed Exercise Exceptions\bin\Debug\net5.0\Proposed Exercise Exceptions.runtimeconfig.dev.json
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\Proposed Exercise Exceptions\Proposed Exercise Exceptions\bin\Debug\net5.0\Proposed Exercise Exceptions.dll
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\Proposed Exercise Exceptions\Proposed Exercise Exceptions\bin\Debug\net5.0\Proposed Exercise Exceptions.pdb
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\Proposed Exercise Exceptions\Proposed Exercise Exceptions\obj\Debug\net5.0\Proposed Exercise Exceptions.csproj.AssemblyReference.cache
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\Proposed Exercise Exceptions\Proposed Exercise Exceptions\obj\Debug\net5.0\Proposed Exercise Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\Proposed Exercise Exceptions\Proposed Exercise Exceptions\obj\Debug\net5.0\Proposed Exercise Exceptions.AssemblyInfoInputs.cache
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\Proposed Exercise Exceptions\Proposed Exercise Exceptions\obj\Debug\net5.0\Proposed Exercise Exceptions.AssemblyInfo.cs
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\Proposed Exercise Exceptions\Proposed Exercise Exceptions\obj\Debug\net5.0\Proposed Exercise Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\Proposed Exercise Exceptions\Proposed Exercise Exceptions\obj\Debug\net5.0\Proposed Exercise Exceptions.dll
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\Proposed Exercise Exceptions\Proposed Exercise Exceptions\obj\Debug\net5.0\refint\Proposed Exercise Exceptions.dll
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\Proposed Exercise Exceptions\Proposed Exercise Exceptions\obj\Debug\net5.0\Proposed Exercise Exceptions.pdb
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\Proposed Exercise Exceptions\Proposed Exercise Exceptions\obj\Debug\net5.0\Proposed Exercise Exceptions.genruntimeconfig.cache
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\Proposed Exercise Exceptions\Proposed Exercise Exceptions\obj\Debug\net5.0\ref\Proposed Exercise Exceptions.dll
